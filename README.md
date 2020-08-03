@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Ana! 👋
+
+---
+
+🔭 I’m currently a Research consultant at Griffith University, working at the [Biospine Research Group](https://www.griffith.edu.au/menzies-health-institute-queensland/our-institute/disability-and-rehabilitation/gcore).
+
+🌱 I’m currently learning ROS2 to implement real-time control systems for rehabilitation technologies.
 
 <!--
-**anacsousa1/anacsousa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anacsousa1/anacsousa1** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
