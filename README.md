@@ -8,3 +8,7 @@
     - 📧 anacsousa@lara.un.br
     - 💼 [linkedin](https://www.linkedin.com/in/ana-sousa-67523984/)
     - 🐦 [anacsousa](https://twitter.com/anacsousa)
+
+[![Ana's github stats](https://github-readme-stats.vercel.app/api?username=anacsousa1&hide=prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacsousa1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
