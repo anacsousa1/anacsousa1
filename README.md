@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ROS2 to implement real-time control system for rehabilitation applications.
 - 👯 I’m looking to collaborate on projects related to rehabilitation and biomechanics.
 - 📫 How to reach me:
-    - 📧 anacsousa@lara.unb.br
+    - 📧 a.cardosodesousa@griffith.edu.au
     - 💼 [linkedin](https://www.linkedin.com/in/ana-sousa-67523984/)
     - 🐦 [anacsousa](https://twitter.com/anacsousa)
 
