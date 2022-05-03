@@ -11,7 +11,7 @@ I am a researcher with substantial experience with control strategies, human-rob
 *   🚀  I'm currently working on [Biospine](http://www.linkedin.com/company/project-biospine/mycompany/)
 *   🤝  I'm open to collaborating on projects related to rehabilitation and biomechanics.
 
-<a href="https://www.twitter.com/anacsousa" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/anacsousa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.github.com/anacsousa1" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/github/followers/anacsousa1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+<a href="https://www.twitter.com/anacsousa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/anacsousa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a> <a href="https://www.github.com/anacsousa1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/anacsousa1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
                   
                     
 ### Socials
