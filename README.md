@@ -1,15 +1,26 @@
-Hi 👋 My name is Ana de Sousa
+Hi there! 👋
 =============================
 
 Researcher
 ----------
 
-I am a researcher with substantial experience with control strategies, human-robot interface, prosthesis, orthoses, and medical equipment for motor rehabilitation. My knowledge focuses on robotics, engineering, programming, and rehabilitation technologies, with developments of practical control architectures and strategies in real-world scenarios by working with engineers and clinicians.
+I'm a researcher based in Barcelona, Spain, with extensive experience in control strategies, human-robot interface, prosthesis, orthoses, and medical equipment for motor rehabilitation. My expertise lies in the fields of robotics, engineering, programming, and rehabilitation technologies, and I specialize in developing practical control architectures and strategies for real-world scenarios by collaborating with engineers and clinicians.
 
-*   🌍  I'm based in Gold Coast/Australia
-*   ✉️  You can contact me at [a.cardosodesousa@griffith.edu.au](mailto:a.cardosodesousa@griffith.edu.au)
-*   🚀  I'm currently working on [Biospine](http://www.linkedin.com/company/project-biospine/mycompany/)
-*   🤝  I'm open to collaborating on projects related to rehabilitation and biomechanics.
+Get in touch!
+----------
+
+🌍 Feel free to reach out to me at ana.carolina.cardoso@upc.edu. I'd love to hear from you!
+
+What I'm working on
+----------
+
+🚀 Currently, I'm working at CREB - Research Centre for Biomedical Engineering, and I'm excited to be contributing to the field of rehabilitation and biomechanics.
+
+Let's collaborate!
+----------
+
+🤝 I'm open to collaborating on projects related to rehabilitation and biomechanics. If you have an interesting project in mind, feel free to contact me. I'd be happy to discuss the possibilities.
+
 
 <a href="https://www.twitter.com/anacsousa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/anacsousa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a> <a href="https://www.github.com/anacsousa1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/anacsousa1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
                   
